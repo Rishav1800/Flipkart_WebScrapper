@@ -14,4 +14,4 @@ Next, it sends a GET request to the URL with the headers and creates a Beautiful
 Finally, it prints the product name and price to the console. 
 
 ## Usage
-To use this code, simply replace the URL with the URL of the
+To use this code, simply replace the URL with the URL of the Flipkart webpage you want to scrape. You can also modify the code to extract additional product information or to save the data to a file or database.
